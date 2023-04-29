@@ -1,0 +1,15 @@
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\bin\Debug\net6.0\Investimento.exe
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\bin\Debug\net6.0\Investimento.deps.json
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\bin\Debug\net6.0\Investimento.runtimeconfig.json
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\bin\Debug\net6.0\Investimento.dll
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\bin\Debug\net6.0\Investimento.pdb
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\obj\Debug\net6.0\Investimento.csproj.AssemblyReference.cache
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\obj\Debug\net6.0\Investimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\obj\Debug\net6.0\Investimento.AssemblyInfoInputs.cache
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\obj\Debug\net6.0\Investimento.AssemblyInfo.cs
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\obj\Debug\net6.0\Investimento.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\obj\Debug\net6.0\Investimento.dll
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\obj\Debug\net6.0\refint\Investimento.dll
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\obj\Debug\net6.0\Investimento.pdb
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\obj\Debug\net6.0\Investimento.genruntimeconfig.cache
+C:\Users\joaoh\source\repos\Investimento\Programas CSharp\obj\Debug\net6.0\ref\Investimento.dll
